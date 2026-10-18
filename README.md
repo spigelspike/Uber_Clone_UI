@@ -19,40 +19,7 @@ Real-time map simulation centered in Mumbai with live car markers, surge pricing
 
 ---
 
-### 2. Uber Midnight OLED Dark Mode
-A tuned midnight dark mode with deep OLED black backgrounds, refined card borders, and high-contrast typography designed for low-light ride booking.
 
-![Uber Midnight Dark Mode](docs/screenshots/dark_mode.png)
-
----
-
-### 3. Uber Connect — Package Delivery
-Courier dispatch interface supporting multiple parcel sizes (Small backpack, Medium box, Large trunk), instant price estimation, courier vehicle assignment, and recipient details.
-
-![Package Delivery View](docs/screenshots/package_delivery.png)
-
----
-
-### 4. Trip Activity & 1-Tap Rebooking
-Historical trips with status tags (Completed / Cancelled), route details, driver info, fare receipts, and instant 1-tap rebooking.
-
-![Activity and Trips History](docs/screenshots/activity_trips.png)
-
----
-
-### 5. Account Management & Uber Cash
-Rider profile view with VIP badge, Uber Cash wallet balance with top-up simulation, saved favorite places (Home & Work), and preferred payment methods.
-
-![Account and Wallet View](docs/screenshots/account_profile.png)
-
----
-
-### 6. Interactive Onboarding Tour
-First-time user onboarding carousel introducing key features with animations and step navigation.
-
-![Onboarding Tour](docs/screenshots/onboarding_tour.png)
-
----
 
 ## ✨ Key Features
 
